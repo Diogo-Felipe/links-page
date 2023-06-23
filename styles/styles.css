@@ -93,6 +93,10 @@ main a.button:focus {
   border-color: rgba(148, 194, 233, 1);
 }
 
+.podcast-player {
+  margin-top: 30px;
+}
+
 @keyframes rotate-animation {
   0% {}
 
